@@ -8,6 +8,4 @@
 
 
 ### 모각코 1주차(21.01.02)
-- 계획 : 
-- hackerrank 문제 풀기
-- (2)문제 해결 개관 읽기
+모각코 1주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/1st_week
