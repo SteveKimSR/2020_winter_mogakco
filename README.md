@@ -10,3 +10,6 @@
 
 ### 모각코 1주차(21.01.02)
 모각코 1주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/1st_week
+
+### 모각코 2주차(21.01.09)
+모각코 2주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/2nd_week
