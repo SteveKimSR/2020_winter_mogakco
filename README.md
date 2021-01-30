@@ -15,7 +15,10 @@
 모각코 2주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/2nd_week
 
 ### 모각코 3주차(21.01.16)
-모각코 2주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/3rd_week
+모각코 3주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/3rd_week
 
 ### 모각코 4주차(21.01.23)
-모각코 2주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/4th_week
+모각코 4주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/4th_week
+
+### 모각코 5주차(21.01.30)
+모각코 5주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/5th_week
