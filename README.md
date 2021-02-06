@@ -22,4 +22,4 @@
 모각코 5주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/5th_week
 
 ### 모각코 6주차(21.02.06)
-모각코 5주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/6th_week
+모각코 6주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/6th_week
