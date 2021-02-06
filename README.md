@@ -2,8 +2,6 @@
 2020 겨울방학 모각코
 
 ## 전체 계획
-- 정보처리기사 자격증 공부
-- 데이터베이스 자격증 공부
 - "프로그래밍 대회에서 배우는 알고리즘 문제해결 전략" 책 공부
 - hackerrank, 백준 풀기
 
@@ -22,3 +20,6 @@
 
 ### 모각코 5주차(21.01.30)
 모각코 5주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/5th_week
+
+### 모각코 6주차(21.02.06)
+모각코 5주차 https://github.com/SteveKimSR/2020_winter_mogakco/tree/main/6th_week
